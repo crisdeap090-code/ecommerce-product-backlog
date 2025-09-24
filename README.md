@@ -16,3 +16,9 @@
 ## Cấu trúc repo
 - `backlog/product_backlog.md` : Product Backlog
 - `backlog/sprint_backlog.md` : Sprint Backlog
+# Tài liệu cho dự án
+
+Dưới đây là các tài liệu liên quan đến dự án:
+
+- [Product Backlog (Word)](https://github.com/username/repo-name/blob/main/Product_Backlog.docx)
+- [Sprint Backlog (Excel)](https://github.com/username/repo-name/blob/main/Sprint_Backlog.xlsx)
